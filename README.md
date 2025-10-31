@@ -1,4 +1,4 @@
 # SIMON SAYS GAME PROJECT
 
-This is Java Script Simon Says Game Project 
+This is Html,Css,JavaScript (Web Development) Simon Says Game Project 
  
