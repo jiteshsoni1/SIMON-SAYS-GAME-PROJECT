@@ -1,3 +1,4 @@
-# JAVA SCRIPT PROJECT
+# SIMON SAYS GAME PROJECT
 
-This is java script simon says game project 
+This is Java Script Simon Says Game Project 
+ 
